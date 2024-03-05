@@ -6,6 +6,6 @@ This project, part of the Caltech Machine Learning & Data Mining course (Februar
 
 ## Key Highlights
 
-1. Models Used: The project explores Random Forest, LightGBM, and XGBoost models, emphasizing systematic feature engineering and hyperparameter tuning.
+1. Models Used: Random Forest, LightGBM, and XGBoost models, emphasizing systematic feature engineering and hyperparameter tuning.
 2. Feature Engineering: Custom and systematically engineered features significantly enhanced our models' predictive accuracy.
 3. Model Validation: Employed repeated k-fold cross-validation and grid search for robust model selection based on the F2 score.
